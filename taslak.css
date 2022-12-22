@@ -1,0 +1,32 @@
+*{
+	margin:0px;
+	padding:0px;}
+#site{
+	width:1100px;
+	padding:10px;
+margin-left:auto;
+margin-right:auto;}
+#bas{
+	height:200px;}
+#ymenu{
+	border:0px;
+	height:50px;
+	margin-top:10px;
+	margin-bottom:10px;}
+#dmenu{
+	border:0px;
+	width:200px;
+	height:450px;
+	float:left;}
+#icerik{ 
+	height:450px;
+	width:830px;
+	float:right;
+	margin-bottom:10px;}
+#alt{
+	height:50px;
+	clear:both;
+	height:50px;
+	margin-top:10px;}
+#site,#bas,#icerik,#alt{border:1px solid black;}
+	
